@@ -118,6 +118,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 # Signature
 
-ФИО:
+ФИО: Костяшин Иван Александрович
 
-Группа:
+Группа: ИУ6-35Б
